@@ -7,7 +7,7 @@ This is a second change.
 
 more git
 
-http://gitforeveryone.com
+http://gitforeverybody.com
 
 or 
 
